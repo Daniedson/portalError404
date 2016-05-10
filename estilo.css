@@ -15,10 +15,32 @@ header {
     border-radius: 6px
 }
 
-#principal {
-    width: 50%;
+nav {
+    float: left;
+    width: 150px;
+    height: 500px;
+    text-align: center
+}
+
+footer {
+    height: 30px;
+    width: 100%;
+    background-color: steelblue;
+    clear: both;
+    border-radius: 6px;
     text-align: center;
-    display: block
+    font-weight: bold;
+    line-height: 35px
+}
+
+#principal {
+    width: 45%;
+    text-align: justify;
+    position: absolute;
+    left: 28%;
+    font-size: 18px;
+    font-family: Segoe UI, Tahoma;
+    
 }
 
 #principalEquipe {
@@ -28,21 +50,27 @@ header {
 
 #primeira {
     display: inline-block;
-    background-color: red;
-    height:280;
-    width:250
+    background-color: transparent;
+    height:350px;
+    width:290px
 }
 #segunda {
     display: inline-block;
-    background-color: yellow;
-    height:280;
-    width:250
+    background-color: transparent;
+    height:350px;
+    width:290px
 }
 #terceira {
     display: inline-block;
-    background-color: green;
-    height:280;
-    width:250
+    background-color: transparent;
+    height:350px;
+    width:290px
+}
+#quarta {
+    display: inline-block;
+    background-color: transparent;
+    height:350px;
+    width:290px
 }
 
 
