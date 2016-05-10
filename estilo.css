@@ -16,6 +16,7 @@ header {
 }
 
 nav {
+    font-family: Segoe UI, Tahoma;
     float: left;
     width: 150px;
     height: 500px;
@@ -23,6 +24,7 @@ nav {
 }
 
 footer {
+    font-family: Segoe UI, Tahoma;
     height: 30px;
     width: 100%;
     background-color: steelblue;
@@ -40,7 +42,7 @@ footer {
     left: 28%;
     font-size: 18px;
     font-family: Segoe UI, Tahoma;
-    
+
 }
 
 #principalEquipe {
