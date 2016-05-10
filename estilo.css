@@ -16,7 +16,18 @@ header {
 }
 
 nav {
+    float: left;
+    width: 250px;
+    height: 500px;
+    text-align: center
+}
 
+footer {
+    height: 30px;
+    width: 100%;
+    background-color: steelblue;
+    clear: both;
+    border-radius: 6px
 }
 
 #principal {
