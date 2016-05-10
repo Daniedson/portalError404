@@ -28,19 +28,25 @@ header {
 
 #primeira {
     display: inline-block;
-    background-color: red;
-    height:280;
-    width:250
+    background-color: transparent;
+    height:350px;
+    width:290px
 }
 #segunda {
     display: inline-block;
-    background-color: yellow;
-    height:280;
-    width:250
+    background-color: transparent;
+    height:350px;
+    width:290px
 }
 #terceira {
     display: inline-block;
-    background-color: green;
-    height:280;
-    width:250
+    background-color: transparent;
+    height:350px;
+    width:290px
+}
+#quarta {
+    display: inline-block;
+    background-color: transparent;
+    height:350px;
+    width:290px
 }
