@@ -26,6 +26,18 @@ header {
     width: 100%
 }
 
-#primeira {background-color: red}
-#segunda {background-color: yellow}
-#terceira {background-color: green}
+#primeira {
+    background-color: red;
+    width: 50px;
+    height: 50px
+}
+#segunda {
+    background-color: yellow;
+    width: 50px;
+    height: 50px
+}
+#terceira {
+    background-color: green;
+    width: 50px;
+    height: 50px
+}
