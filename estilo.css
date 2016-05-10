@@ -27,22 +27,25 @@ nav {
 }
 
 #principalEquipe {
-    background-color: black;
+    background-color: transparent;
     width: 100%
 }
 
 #primeira {
+    display: inline-block;
     background-color: red;
-    width: 50px;
-    height: 50px
+    height:280;
+    width:250
 }
 #segunda {
+    display: inline-block;
     background-color: yellow;
-    width: 50px;
-    height: 50px
+    height:280;
+    width:250
 }
 #terceira {
+    display: inline-block;
     background-color: green;
-    width: 50px;
-    height: 50px
+    height:280;
+    width:250
 }
