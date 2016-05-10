@@ -15,10 +15,15 @@ header {
     border-radius: 6px
 }
 
+nav {
+
+}
+
 #principal {
     width: 50%;
     text-align: center;
-    display: block
+    position: absolute;
+    left: 25%;
 }
 
 #principalEquipe {
