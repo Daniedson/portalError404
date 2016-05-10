@@ -31,10 +31,12 @@ footer {
 }
 
 #principal {
-    width: 50%;
-    text-align: center;
+    width: 45%;
+    text-align: justify;
     position: absolute;
-    left: 25%;
+    left: 28%;
+    font-size: 18px;
+    
 }
 
 #principalEquipe {
